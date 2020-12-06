@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 let env = process.argv.splice(2)
 
 if(env[0] == null || env[1] == null || env[2] == null){
