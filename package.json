@@ -1,6 +1,6 @@
 {
   "name": "perhitungan",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "contoh perhitungan sederhana di cli",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,13 @@
   "bin": {
     "perhitungan": "index.js"
   },
-  "keywords": ["perhitungan", "matematika", "penjumblahan", "pengurangan", "arimatik"],
+  "keywords": [
+    "perhitungan",
+    "matematika",
+    "penjumblahan",
+    "pengurangan",
+    "arimatik"
+  ],
   "author": "malikkurosaki <kurosakiblackangel@gmail.com>",
   "license": "ISC"
 }
