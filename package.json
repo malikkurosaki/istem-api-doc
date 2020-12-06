@@ -1,6 +1,6 @@
 {
   "name": "perhitungan",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "contoh perhitungan sederhana di cli",
   "main": "index.js",
   "scripts": {
