@@ -1,7 +1,7 @@
 {
   "name": "perhitungan",
   "version": "1.0.0",
-  "description": "",
+  "description": "contoh perhitungan sederhana di cli",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,7 +9,7 @@
   "bin": {
     "perhitungan": "index.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["perhitungan", "matematika", "penjumblahan", "pengurangan", "arimatik"],
+  "author": "malikkurosaki <kurosakiblackangel@gmail.com>",
   "license": "ISC"
 }
