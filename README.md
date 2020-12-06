@@ -1,10 +1,12 @@
 contoh perhitugan sederhana
 
 install :
+
 `npm i -g perhitungan`
 
 contoh :
-`$perhitungan 2 + 4`
+
+`user$perhitungan 2+4`
 
 dan lainnya
 
