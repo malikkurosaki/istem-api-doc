@@ -9,9 +9,9 @@ contoh :
 dan lainnya
 
 support : 
-- +
-- -
-- /
-- *
+- `+`
+- `-`
+- `/`
+- `*`
 
 dan perhitungan lainnya 
